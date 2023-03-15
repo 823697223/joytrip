@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7cd94444","path":"/components/apsat/Color/","title":"Color 色彩","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1676974572000,"contributors":[{"name":"liyunhao","email":"823697223@qq.com","commits":1}]},"filePathRelative":"components/apsat/Color/README.md"}');export{t as data};

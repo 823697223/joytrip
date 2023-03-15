@@ -1,0 +1,1 @@
+import{_ as a,M as t,p as c,U as d,V as e,N as r,t as _}from"./framework-6b3c435d.js";const s={};function u(l,f){const o=t("AddButton",!0),n=t("Card");return c(),d(n,null,{default:e(()=>[r(o,null,{default:e(()=>[_("添加项目")]),_:1})]),_:1})}const m=a(s,[["render",u],["__file","AddButton.vue"]]);export{m as default};

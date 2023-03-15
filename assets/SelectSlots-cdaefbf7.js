@@ -1,0 +1,1 @@
+import{c as o,b as s,M as c,p as n,U as l,_ as a}from"./framework-6b3c435d.js";const _=o({__name:"SelectSlots",setup(p){const e=s([{name:"—",desc:"	Option 组件列表"},{name:"prefix",desc:"Select 组件头部内容"},{name:"empty",desc:"无选项时的列表"}]);return(m,r)=>{const t=c("SlotsTable");return n(),l(t,{columns:e},null,8,["columns"])}}}),u=a(_,[["__file","SelectSlots.vue"]]);export{u as default};

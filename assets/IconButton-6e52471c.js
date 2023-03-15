@@ -1,0 +1,1 @@
+import{_,M as n,p as r,U as s,V as o,N as e,t as c}from"./framework-6b3c435d.js";const u={};function d(f,i){const t=n("IconButton",!0),a=n("Card");return r(),s(a,null,{default:o(()=>[e(t,{icon:"icon-add"},{default:o(()=>[c("添加")]),_:1}),e(t,{icon:"icon-minus"},{default:o(()=>[c("减少")]),_:1})]),_:1})}const p=_(u,[["render",d],["__file","IconButton.vue"]]);export{p as default};

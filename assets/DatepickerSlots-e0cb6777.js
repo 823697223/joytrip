@@ -1,0 +1,1 @@
+import{c as t,b as s,M as a,p as c,U as n,_ as r}from"./framework-6b3c435d.js";const l=t({__name:"DatepickerSlots",setup(p){const e=s([{name:"range-separator",desc:"	自定义范围分割符内容"}]);return(_,m)=>{const o=a("SlotsTable");return c(),n(o,{columns:e},null,8,["columns"])}}}),u=r(l,[["__file","DatepickerSlots.vue"]]);export{u as default};

@@ -1,0 +1,1 @@
+import{B as r,C as t}from"./app-c12e357d.js";import{j as o,M as s}from"./framework-6b3c435d.js";class p extends r{constructor(n){super(n),this.renderType="input"}renderComponent(){return o(s(t.INPUT),{...this.computedProps()},this.computedSlots())}}function u(e){return new p(e)}function c(e){return u(e).render()}export{u as c,c as r};

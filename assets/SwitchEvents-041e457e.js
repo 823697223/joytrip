@@ -1,0 +1,1 @@
+import{c as n,b as c,M as s,p as o,U as a,_}from"./framework-6b3c435d.js";const l=n({__name:"SwitchEvents",setup(p){const e=c([{name:"change",desc:"switch 状态发生变化时的回调函数",type:"(val) => void"}]);return(r,i)=>{const t=s("EventTable");return o(),a(t,{columns:e},null,8,["columns"])}}}),v=_(l,[["__file","SwitchEvents.vue"]]);export{v as default};
