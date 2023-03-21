@@ -1,0 +1,1 @@
+import{c as s,b as t,M as n,p as a,U as c,_ as r}from"./framework-6b3c435d.js";const p=s({__name:"ShadowTextProps",setup(_){const e=t([{name:"text",desc:"",type:"string"},{name:"shadow",desc:"背景文字",type:"string"}]);return(l,m)=>{const o=n("PropsTable");return a(),c(o,{columns:e},null,8,["columns"])}}}),u=r(p,[["__file","ShadowTextProps.vue"]]);export{u as default};
