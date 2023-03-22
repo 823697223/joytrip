@@ -1,0 +1,1 @@
+import{c as o,b as t,M as n,p as a,U as c,_ as p}from"./framework-6b3c435d.js";const r=o({__name:"StepMethods",setup(_){const e=t([{name:"next",desc:"下一步",params:""},{name:"prev",desc:"上一步",params:""}]);return(m,l)=>{const s=n("MethodsTable");return a(),c(s,{columns:e},null,8,["columns"])}}}),u=p(r,[["__file","StepMethods.vue"]]);export{u as default};
