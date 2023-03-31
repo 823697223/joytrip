@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-9852dc32","path":"/utils/base/ObjectUtil/","title":"ObjectUtil","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"utils/base/ObjectUtil/README.md"}');export{t as data};
