@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6c615c66","path":"/utils/base/NumberUtil/ceil/","title":"ceil","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680509782000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/NumberUtil/ceil/README.md"}');export{e as data};

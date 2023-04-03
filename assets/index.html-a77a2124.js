@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-405580e8","path":"/utils/base/NumberUtil/max/","title":"max","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680509782000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/NumberUtil/max/README.md"}');export{t as data};

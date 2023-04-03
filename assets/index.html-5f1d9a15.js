@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-719dd5ff","path":"/utils/base/NumberUtil/isNumber/","title":"isNumber","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680509782000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/NumberUtil/isNumber/README.md"}');export{e as data};

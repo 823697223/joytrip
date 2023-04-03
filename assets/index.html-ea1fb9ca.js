@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6e09351e","path":"/utils/base/MapUtil/mapToObject/","title":"mapToObject","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680507193000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/MapUtil/mapToObject/README.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-9f8b7836","path":"/utils/base/DateUtil/diffTime/","title":"diffTime","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680501177000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/DateUtil/diffTime/README.md"}');export{t as data};

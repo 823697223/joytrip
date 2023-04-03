@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a44f12f6","path":"/utils/base/NumberUtil/randomFrom/","title":"randomFrom","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680509782000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/NumberUtil/randomFrom/README.md"}');export{t as data};

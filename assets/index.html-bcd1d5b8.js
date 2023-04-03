@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-759ee400","path":"/utils/base/NumberUtil/floor/","title":"floor","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680509782000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/NumberUtil/floor/README.md"}');export{t as data};

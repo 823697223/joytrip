@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3308fd3b","path":"/utils/base/DomUtil/createDom/","title":"createDom","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680505444000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/DomUtil/createDom/README.md"}');export{t as data};

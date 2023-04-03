@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6b47c1e6","path":"/utils/base/NumberUtil/mean/","title":"mean","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680509782000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/NumberUtil/mean/README.md"}');export{e as data};

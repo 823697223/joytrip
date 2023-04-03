@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-abfd1334","path":"/utils/base/DateUtil/getYearDate/","title":"getYearDate","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680501177000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/DateUtil/getYearDate/README.md"}');export{t as data};

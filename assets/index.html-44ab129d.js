@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1368d22f","path":"/utils/base/StringUtil/substrOverLength/","title":"substrOverLength","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680510665000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/StringUtil/substrOverLength/README.md"}');export{t as data};

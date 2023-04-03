@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-e92f3030","path":"/utils/base/ObjectUtil/resetObject/","title":"resetObject","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680513124000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/ObjectUtil/resetObject/README.md"}');export{t as data};
