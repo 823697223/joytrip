@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-4e5d5955","path":"/plugins/vue3/hooks/useConditionTime/","title":"UseConditionTime","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"plugins/vue3/hooks/useConditionTime/README.md"}');export{e as data};

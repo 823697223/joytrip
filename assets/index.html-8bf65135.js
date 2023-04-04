@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fbd3d838","path":"/plugins/vue3/message/notify/","title":"Notify","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680589981000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"plugins/vue3/message/notify/README.md"}');export{e as data};
