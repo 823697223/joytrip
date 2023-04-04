@@ -1,1 +1,0 @@
-import{_ as n,M as e,p as c,U as r,V as a,N as _}from"./framework-6b3c435d.js";const s={};function u(f,l){const t=e("SearchButton",!0),o=e("Card");return c(),r(o,null,{default:a(()=>[_(t)]),_:1})}const d=n(s,[["render",u],["__file","SearchButton.vue"]]);export{d as default};

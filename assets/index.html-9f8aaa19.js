@@ -1,0 +1,1 @@
+import{_ as n,M as o,p as t,q as s,N as c,Q as e,t as d}from"./framework-6b3c435d.js";const r={},i=e("h1",{id:"loading",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#loading","aria-hidden":"true"},"#"),d(" loading")],-1);function _(l,h){const a=o("ApsatLoading");return t(),s("div",null,[i,c(a)])}const f=n(r,[["render",_],["__file","index.html.vue"]]);export{f as default};
