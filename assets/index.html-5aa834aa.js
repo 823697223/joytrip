@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0e799fc8","path":"/plugins/vue3/hooks/useTimeout/","title":"UseTimeout","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"plugins/vue3/hooks/useTimeout/README.md"}');export{e as data};

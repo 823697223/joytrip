@@ -1,1 +1,0 @@
-import{_ as o,p as t,q as c,Q as e,t as n}from"./framework-6b3c435d.js";const r={},a=e("h1",{id:"confirmbox",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#confirmbox","aria-hidden":"true"},"#"),n(" confirmBox")],-1),s=[a];function i(_,d){return t(),c("div",null,s)}const h=o(r,[["render",i],["__file","index.html.vue"]]);export{h as default};

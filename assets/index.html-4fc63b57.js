@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-c574131a","path":"/plugins/apsat/directive/loading/","title":"loading","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"plugins/apsat/directive/loading/README.md"}');export{t as data};

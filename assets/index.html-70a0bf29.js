@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-de8098d6","path":"/plugins/apsat/confirm/confirmBox/","title":"ConfirmBox","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680580147000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":2}]},"filePathRelative":"plugins/apsat/confirm/confirmBox/README.md"}');export{t as data};

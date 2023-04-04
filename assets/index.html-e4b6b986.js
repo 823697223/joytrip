@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3a8e089c","path":"/plugins/vue3/hooks/useInterval/","title":"UseInterval","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"plugins/vue3/hooks/useInterval/README.md"}');export{e as data};

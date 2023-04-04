@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fbd3d838","path":"/plugins/vue3/message/notify/","title":"Notify","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"plugins/vue3/message/notify/README.md"}');export{e as data};
