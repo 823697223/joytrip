@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-650bb920","path":"/utils/base/EnumUtil/composeEnumDesc/","title":"composeEnumDesc","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680602861000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/EnumUtil/composeEnumDesc/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{f as e}from"./app-30c2bc19.js";import{c as a,M as o,p as s,U as r,V as n,N as _,z as c,_ as p}from"./framework-6b3c435d.js";const u=a({__name:"StatusText",setup(f){return(x,l)=>{const t=o("Card");return s(),r(t,null,{default:n(()=>[_(c(e),{color:"red",text:"text"})]),_:1})}}}),i=p(u,[["__file","StatusText.vue"]]);export{i as default};
