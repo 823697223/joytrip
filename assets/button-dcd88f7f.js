@@ -1,0 +1,1 @@
+import{B as n,c as r}from"./app-e75d7ef5.js";import{j as o,M as s}from"./framework-fce7c3d2.js";class p extends n{constructor(e){super(e),this.renderType="button"}renderComponent(){return o(s(r.BUTTON),{...this.computedProps()},()=>this.props.content)}}function u(t){return new p(t)}function m(t){return u(t).render()}export{u as c,m as r};

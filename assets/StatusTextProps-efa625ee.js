@@ -1,1 +1,0 @@
-import{c as s,b as o,M as n,p as a,U as c,_ as r}from"./framework-fce7c3d2.js";const p=s({__name:"StatusTextProps",setup(_){const e=o([{name:"color",desc:"",type:"string"},{name:"text",desc:"",type:"string"}]);return(l,m)=>{const t=n("PropsTable");return a(),c(t,{columns:e},null,8,["columns"])}}}),i=r(p,[["__file","StatusTextProps.vue"]]);export{i as default};
