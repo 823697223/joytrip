@@ -1,0 +1,1 @@
+import{_ as t,M as c,p as n,q as r,N as o}from"./framework-fce7c3d2.js";const a={};function s(_,l){const e=c("SearchButton",!0);return n(),r("div",null,[o(e),o(e,{disabled:""})])}const d=t(a,[["render",s],["__file","SearchButton.vue"]]);export{d as default};

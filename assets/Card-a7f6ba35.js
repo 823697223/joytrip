@@ -1,0 +1,1 @@
+import{_ as t,M as o,p as a,q as c,N as r,V as n,t as s}from"./framework-fce7c3d2.js";const _={};function l(d,f){const e=o("Card",!0);return a(),c("div",null,[r(e,null,{default:n(()=>[s("123456")]),_:1})])}const m=t(_,[["render",l],["__file","Card.vue"]]);export{m as default};

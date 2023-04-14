@@ -1,0 +1,1 @@
+import{_ as a,M as c,p as l,q as s,N as t,V as o,t as n}from"./framework-fce7c3d2.js";const _={};function r(u,d){const e=c("TextButton",!0);return l(),s("div",null,[t(e,null,{default:o(()=>[n("操作1")]),_:1}),t(e,null,{default:o(()=>[n("操作2")]),_:1}),t(e,{disabled:""},{default:o(()=>[n("操作3")]),_:1})])}const x=a(_,[["render",r],["__file","TextButton.vue"]]);export{x as default};

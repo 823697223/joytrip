@@ -1,0 +1,1 @@
+import{_ as c,M as a,p as s,q as r,N as o,V as t,t as n}from"./framework-fce7c3d2.js";const _={};function d(i,l){const e=a("IconButton",!0);return s(),r("div",null,[o(e,{icon:"icon-add"},{default:t(()=>[n("添加")]),_:1}),o(e,{icon:"icon-minus",disabled:""},{default:t(()=>[n("减少")]),_:1})])}const f=c(_,[["render",d],["__file","IconButton.vue"]]);export{f as default};

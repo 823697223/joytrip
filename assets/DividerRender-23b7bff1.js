@@ -1,1 +1,0 @@
-import{r as o}from"./app-e75d7ef5.js";import{c as n,M as t,p as a,U as s,V as c,N as _,_ as d}from"./framework-fce7c3d2.js";const i=n({__name:"DividerRender",setup(p){const e=()=>o({});return(m,l)=>{const r=t("Card");return a(),s(r,null,{default:c(()=>[_(e,{render:e})]),_:1})}}}),v=d(i,[["__file","DividerRender.vue"]]);export{v as default};

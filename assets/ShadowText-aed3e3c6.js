@@ -1,1 +1,0 @@
-import{S as a}from"./app-e75d7ef5.js";import{c as o,M as t,p as s,U as d,V as n,N as r,z as c,_}from"./framework-fce7c3d2.js";const p=o({__name:"ShadowText",setup(m){return(f,l)=>{const e=t("Card");return s(),d(e,null,{default:n(()=>[r(c(a),{text:"adasdas",shadow:"dasdasdasd"})]),_:1})}}}),h=_(p,[["__file","ShadowText.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c75e5182","path":"/components/apsat/GradientTitle/","title":"GradientTitle","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"基础用法","slug":"基础用法","link":"#基础用法","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"components/apsat/GradientTitle/README.md"}');export{t as data};
