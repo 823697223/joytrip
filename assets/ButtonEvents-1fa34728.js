@@ -1,0 +1,1 @@
+import{c as n,b as o,M as s,p as c,U as a,_}from"./framework-fce7c3d2.js";const l=n({__name:"ButtonEvents",setup(p){const e=o([{name:"click",desc:"点击触发的事件",type:"() => void"}]);return(r,u)=>{const t=s("EventTable");return c(),a(t,{columns:e},null,8,["columns"])}}}),v=_(l,[["__file","ButtonEvents.vue"]]);export{v as default};

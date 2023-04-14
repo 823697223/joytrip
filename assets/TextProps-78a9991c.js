@@ -1,1 +1,0 @@
-import{c as s,b as t,M as n,p as c,U as r,_ as p}from"./framework-6b3c435d.js";const a=s({__name:"TextProps",setup(_){const e=t([{name:"text",desc:"",type:"string"}]);return(l,m)=>{const o=n("PropsTable");return c(),r(o,{columns:e},null,8,["columns"])}}}),x=p(a,[["__file","TextProps.vue"]]);export{x as default};

@@ -1,1 +1,0 @@
-import{c as a,M as t,p as r,U as c,V as i,N as s,_}from"./framework-6b3c435d.js";const p=a({__name:"EditContainer",setup(d){const e={name:"xxx详情",to:"/invoice"};return(m,x)=>{const n=t("EditContainer",!0),o=t("Card");return r(),c(o,null,{default:i(()=>[s(n,{title:"xxx详情",crumb:e})]),_:1})}}}),l=_(p,[["__file","EditContainer.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{c as t,b as n,M as s,p as a,U as c,_ as r}from"./framework-fce7c3d2.js";const p=t({__name:"StepContainerMethods",setup(_){const e=n([{name:"next",desc:"下一步",params:""},{name:"prev",desc:"上一步",params:""}]);return(m,l)=>{const o=s("MethodsTable");return a(),c(o,{columns:e},null,8,["columns"])}}}),i=r(p,[["__file","StepContainerMethods.vue"]]);export{i as default};

@@ -1,1 +1,0 @@
-import{c as s,b as t,M as p,p as n,U as c,_ as r}from"./framework-6b3c435d.js";const a=s({__name:"StepProps",setup(_){const e=t([{name:"steps",desc:"步骤",type:"StepItem[]"}]);return(l,m)=>{const o=p("PropsTable");return n(),c(o,{columns:e},null,8,["columns"])}}}),f=r(a,[["__file","StepProps.vue"]]);export{f as default};

@@ -1,1 +1,0 @@
-import{c as o,b as s,M as t,p as a,U as r,_ as c}from"./framework-6b3c435d.js";const _=o({__name:"FormRenderEvents",setup(m){const e=s([{name:"validate",desc:"任一表单项被校验后触发",type:"(prop, status, message) => void"}]);return(p,l)=>{const n=t("EventTable");return a(),r(n,{columns:e},null,8,["columns"])}}}),u=c(_,[["__file","FormRenderEvents.vue"]]);export{u as default};

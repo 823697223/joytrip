@@ -1,0 +1,1 @@
+import{c as n,b as s,M as t,p as r,U as a,_ as c}from"./framework-fce7c3d2.js";const p=n({__name:"FlexContainerProps",setup(_){const e=s([{name:"width",desc:"固定区域宽度",type:"string"}]);return(l,i)=>{const o=t("PropsTable");return r(),a(o,{columns:e},null,8,["columns"])}}}),u=c(p,[["__file","FlexContainerProps.vue"]]);export{u as default};

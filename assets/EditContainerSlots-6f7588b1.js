@@ -1,1 +1,0 @@
-import{c as t,b as n,M as s,p as a,U as c,_ as l}from"./framework-6b3c435d.js";const r=t({__name:"EditContainerSlots",setup(_){const e=n([{name:"fixed",desc:"顶部区域"},{name:"default",desc:"内容"}]);return(i,m)=>{const o=s("SlotsTable");return a(),c(o,{columns:e},null,8,["columns"])}}}),d=l(r,[["__file","EditContainerSlots.vue"]]);export{d as default};

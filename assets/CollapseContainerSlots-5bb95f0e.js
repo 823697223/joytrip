@@ -1,1 +1,0 @@
-import{c as s,b as n,M as t,p as a,U as l,_ as c}from"./framework-6b3c435d.js";const r=s({__name:"CollapseContainerSlots",setup(_){const e=n([{name:"fixed",desc:"固定区域"},{name:"default",desc:"自适应区域"}]);return(p,m)=>{const o=t("SlotsTable");return a(),l(o,{columns:e},null,8,["columns"])}}}),u=c(r,[["__file","CollapseContainerSlots.vue"]]);export{u as default};

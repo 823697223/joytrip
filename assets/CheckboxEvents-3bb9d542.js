@@ -1,1 +1,0 @@
-import{c as n,b as t,M as c,p as s,U as a,_}from"./framework-6b3c435d.js";const l=n({__name:"CheckboxEvents",setup(p){const e=t([{name:"change",desc:"当绑定值变化时触发的事件",type:"(val: typeof v-model) => void"}]);return(r,m)=>{const o=c("EventTable");return s(),a(o,{columns:e},null,8,["columns"])}}}),u=_(l,[["__file","CheckboxEvents.vue"]]);export{u as default};

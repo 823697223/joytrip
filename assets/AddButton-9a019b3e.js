@@ -1,0 +1,1 @@
+import{_ as d,M as o,p as _,U as r,V as e,N as n,t as a}from"./framework-fce7c3d2.js";const s={};function l(u,f){const t=o("AddButton",!0),c=o("Card");return _(),r(c,null,{default:e(()=>[n(t,null,{default:e(()=>[a("添加项目")]),_:1}),n(t,{disabled:""},{default:e(()=>[a("添加项目")]),_:1})]),_:1})}const m=d(s,[["render",l],["__file","AddButton.vue"]]);export{m as default};

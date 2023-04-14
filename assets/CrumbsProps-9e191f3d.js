@@ -1,1 +1,0 @@
-import{c as o,b as r,M as n,p as c,U as t,_ as p}from"./framework-6b3c435d.js";const a=o({__name:"CrumbsProps",setup(m){const e=r([{name:"crumbs",desc:"",type:"CrumbItem[]"}]);return(_,u)=>{const s=n("PropsTable");return c(),t(s,{columns:e},null,8,["columns"])}}}),b=p(a,[["__file","CrumbsProps.vue"]]);export{b as default};

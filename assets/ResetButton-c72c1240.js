@@ -1,1 +1,0 @@
-import{_ as s,M as t,p as c,U as a,V as r,N as o}from"./framework-6b3c435d.js";const _={};function u(d,l){const e=t("ResetButton",!0),n=t("Card");return c(),a(n,null,{default:r(()=>[o(e),o(e,{disabled:""})]),_:1})}const p=s(_,[["render",u],["__file","ResetButton.vue"]]);export{p as default};

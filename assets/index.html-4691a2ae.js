@@ -1,0 +1,1 @@
+import{_ as t,M as a,p as r,q as c,N as n,Q as e,t as s}from"./framework-fce7c3d2.js";const l={},_=e("h1",{id:"color-色彩",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#color-色彩","aria-hidden":"true"},"#"),s(" Color 色彩")],-1);function d(i,h){const o=a("ApsatColor");return r(),c("div",null,[_,n(o)])}const f=t(l,[["render",d],["__file","index.html.vue"]]);export{f as default};

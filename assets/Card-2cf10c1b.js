@@ -1,0 +1,1 @@
+import{_,p as s,q as t,s as d}from"./framework-fce7c3d2.js";const a={},r={class:"card"};function c(e,n){return s(),t("div",r,[d(e.$slots,"default",{},void 0,!0)])}const l=_(a,[["render",c],["__scopeId","data-v-28758bd3"],["__file","Card.vue"]]);export{l as default};
