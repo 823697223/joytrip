@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-358d1d07","path":"/components/apsat/Card/","title":"Card","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"基础用法","slug":"基础用法","link":"#基础用法","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"components/apsat/Card/README.md"}');export{t as data};

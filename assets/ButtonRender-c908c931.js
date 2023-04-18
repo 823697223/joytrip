@@ -1,1 +1,0 @@
-import"./app-fc785ad9.js";import{r as t}from"./button-727b499b.js";import{c as o,p as n,q as r,N as c,_ as s}from"./framework-fce7c3d2.js";const a=o({__name:"ButtonRender",setup(_){const e=()=>t({content:"button"});return(p,u)=>(n(),r("div",null,[c(e,{render:e})]))}}),f=s(a,[["__file","ButtonRender.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+import{c as e,b as n,M as c,p as t,U as p,_ as r}from"./framework-fce7c3d2.js";const a=e({__name:"DescriptionsProps",setup(_){const s=n([{name:"columns",desc:"",type:"DescriptionsColumns[]"}]);return(i,l)=>{const o=c("PropsTable");return t(),p(o,{columns:s},null,8,["columns"])}}}),u=r(a,[["__file","DescriptionsProps.vue"]]);export{u as default};

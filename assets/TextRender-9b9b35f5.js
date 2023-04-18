@@ -1,0 +1,1 @@
+import"./app-1b1e42c6.js";import{r as t}from"./text-af865331.js";import{c as r,p as o,q as n,N as c,_ as s}from"./framework-fce7c3d2.js";const a=r({__name:"TextRender",setup(_){const e=()=>t({text:"Text"});return(p,m)=>(o(),n("div",null,[c(e,{render:e})]))}}),f=s(a,[["__file","TextRender.vue"]]);export{f as default};
