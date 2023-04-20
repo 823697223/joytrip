@@ -1,0 +1,1 @@
+import{c as t,b as s,M as r,p as n,U as c,_ as p}from"./framework-fce7c3d2.js";const a=t({__name:"LeftBorderTextProps",setup(_){const e=s([{name:"text",desc:"",type:"string"}]);return(l,m)=>{const o=r("PropsTable");return n(),c(o,{columns:e},null,8,["columns"])}}}),u=p(a,[["__file","LeftBorderTextProps.vue"]]);export{u as default};
