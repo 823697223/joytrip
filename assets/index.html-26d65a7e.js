@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6032164c","path":"/plugins/vue3/","title":"安装教程","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"plugins/vue3/README.md"}');export{t as data};

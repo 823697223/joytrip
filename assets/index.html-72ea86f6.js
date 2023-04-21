@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-08e27e40","path":"/plugins/apsat/","title":"安装教程","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"plugins/apsat/README.md"}');export{t as data};

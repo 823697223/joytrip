@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as a,Q as e,t as s}from"./framework-fce7c3d2.js";const o={},c=e("h1",{id:"安装教程",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#安装教程","aria-hidden":"true"},"#"),s(" 安装教程")],-1),r=e("p",null,"npm install @joytrip/vue3",-1),_=[c,r];function d(i,l){return n(),a("div",null,_)}const f=t(o,[["render",d],["__file","index.html.vue"]]);export{f as default};

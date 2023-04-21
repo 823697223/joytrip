@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as n,Q as e,t as s}from"./framework-fce7c3d2.js";const o={},c=e("h1",{id:"安装教程",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#安装教程","aria-hidden":"true"},"#"),s(" 安装教程")],-1),r=e("p",null,"npm install @joytrip/apsat",-1),_=[c,r];function d(i,l){return a(),n("div",null,_)}const p=t(o,[["render",d],["__file","index.html.vue"]]);export{p as default};
