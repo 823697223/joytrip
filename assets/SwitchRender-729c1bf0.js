@@ -1,0 +1,1 @@
+import"./app-91da382b.js";import{r as t}from"./switch-4f439a9c.js";import{c as o,r as n,p as a,q as c,N as s,_}from"./framework-fce7c3d2.js";const p=o({__name:"SwitchRender",setup(d){const r=n(!0),e=()=>t({data:r,dataKey:"value"});return(i,m)=>(a(),c("div",null,[s(e,{render:e})]))}}),h=_(p,[["__file","SwitchRender.vue"]]);export{h as default};
