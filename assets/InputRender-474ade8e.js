@@ -1,0 +1,1 @@
+import{m as n}from"./app-04a9b5c7.js";import{c as r,r as o,p as a,q as c,N as s,_ as p}from"./framework-fce7c3d2.js";const _=r({__name:"InputRender",setup(u){const t=o(""),e=()=>n({data:t,dataKey:"value"});return(d,m)=>(a(),c("div",null,[s(e,{render:e})]))}}),i=p(_,[["__file","InputRender.vue"]]);export{i as default};
