@@ -1,1 +1,0 @@
-import{L as e}from"./app-04a9b5c7.js";import{c as t,p as o,q as r,N as a,z as s,_ as c}from"./framework-fce7c3d2.js";const n=t({__name:"LeftBorderText",setup(_){return(f,d)=>(o(),r("div",null,[a(s(e),{text:"adasdas"})]))}}),l=c(n,[["__file","LeftBorderText.vue"]]);export{l as default};
