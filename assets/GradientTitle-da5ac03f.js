@@ -1,0 +1,1 @@
+import{G as e}from"./app-98d210a4.js";import{c as t,p as a,q as o,N as r,V as n,t as s,z as c,_ as i}from"./framework-fce7c3d2.js";const l=t({__name:"GradientTitle",setup(_){return(d,p)=>(a(),o("div",null,[r(c(e),null,{default:n(()=>[s("GradientTitle")]),_:1})]))}}),u=i(l,[["__file","GradientTitle.vue"]]);export{u as default};

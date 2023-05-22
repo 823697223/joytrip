@@ -1,0 +1,1 @@
+import{r}from"./app-98d210a4.js";import{c as o,p as n,q as t,N as c,_ as s}from"./framework-fce7c3d2.js";const a=o({__name:"DividerRender",setup(_){const e=()=>r({});return(d,i)=>(n(),t("div",null,[c(e,{render:e})]))}}),l=s(a,[["__file","DividerRender.vue"]]);export{l as default};

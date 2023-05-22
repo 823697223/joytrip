@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-97c75122","path":"/utils/base/StringUtil/emptyToPlaceholder/","title":"emptyToPlaceholder","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1682478589000,"contributors":[{"name":"李云昊","email":"liyunhao@joytrip.org","commits":1}]},"filePathRelative":"utils/base/StringUtil/emptyToPlaceholder/README.md"}');export{t as data};

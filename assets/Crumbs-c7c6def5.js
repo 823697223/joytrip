@@ -1,1 +1,0 @@
-import{C as o}from"./app-9e204541.js";import{c as s,b as r,p as t,q as a,N as c,z as n,_ as m}from"./framework-fce7c3d2.js";const u=s({__name:"Crumbs",setup(_){const e=r([{to:"/1",name:"111"},{to:"/2",name:"222"},{to:"/3",name:"333"}]);return(l,p)=>(t(),a("div",null,[c(n(o),{crumbs:e},null,8,["crumbs"])]))}}),b=m(u,[["__file","Crumbs.vue"]]);export{b as default};
