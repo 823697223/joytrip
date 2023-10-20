@@ -1,0 +1,1 @@
+import"./app-ea3934e6.js";import{r as t}from"./datePicker-8c02bca6.js";import{c as a,r as o,p as c,q as n,N as s,_ as p}from"./framework-fce7c3d2.js";const _=a({__name:"DatepickerRender",setup(d){const r=o(""),e=()=>t({data:r,dataKey:"value"});return(i,m)=>(c(),n("div",null,[s(e,{render:e})]))}}),k=p(_,[["__file","DatepickerRender.vue"]]);export{k as default};
